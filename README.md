@@ -1,4 +1,6 @@
 # Gestionnaire de Tâches - CLI Python
+![image](https://github.com/user-attachments/assets/f10dff01-1ca5-4b53-bee6-90bdeb50a76d)
+
 
 ## Description du Projet
 
